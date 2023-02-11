@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there. Thanks for visiting my github page👋
 ![abbymark's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbymark&theme=dark&show_icons=true)
+
+- 🔭 I’m currently working as a Machine learning engineer specialized in NLP
+- 🌱 I’m currently learning reinforcement learning, neuroevolution
+- ⚡ I’m currently interested in making artifical life based on RL and GA
 
 <!--
 **abbymark/abbymark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
