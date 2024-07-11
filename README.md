@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning reinforcement learning, neuroevolution
 - ⚡ I’m currently interested in making artifical life based on RL and GA
 
-![](https://leetcard.jacoblin.cool/anmyeongcheol?ext=contest)
+![](https://leetcard.jacoblin.cool/abbymark?ext=contest)
 
 <!--
 **abbymark/abbymark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
